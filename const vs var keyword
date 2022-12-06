@@ -1,0 +1,8 @@
+In javascript or Golang there are two ways of creating variable 
+
+const. And var. 
+But do you know what's the difference, why use two when you can create with one.🤔
+
+So variable created by " const " keyword can't be changed.
+
+But if created by " var", it can be changed
