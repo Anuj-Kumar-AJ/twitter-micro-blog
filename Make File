@@ -1,0 +1,5 @@
+Do you know about makefile? 
+
+lets say you have a large collection of c++ file to build an app, so every time you compile your code you have to compile all the file explicitly.
+to solve this problem  makefile comes to rescue. in makefile you can provide instruction to build your project,  and specify to build only those file which you 
+ have changed.  It makes build fast and save resources (CPU< MEMORY , etc ).
