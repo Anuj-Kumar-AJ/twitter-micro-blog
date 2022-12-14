@@ -1,0 +1,10 @@
+What is statefull architecture? 
+
+In this type of architecture server will store session data of user, so it provides better experience for user.
+
+But it have major drawback . Can you guess what that be
+
+Problem is that , when user go to site, there may be chances that he get redirected to another server of architecture, where his data was not stored.
+Or maybe if we want to horizontally scale up, we have same user data in many servers, resources wastage.
+
+So, use stateless once
