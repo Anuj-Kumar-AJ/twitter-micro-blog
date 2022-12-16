@@ -1,0 +1,9 @@
+Have you heard of network throttling or seen it in browser while inspect mode?
+
+It means to reduce network speed (or bandwidth Speed) . 
+
+But why do we need to reduce network speed 🤔 . 
+
+Not every user have high internet speed, so ita important to know if the product we made (website) is can be load by people.
+
+It is used for imitate user experience which have low internet speed . To check if the site is working properly or load properly in low network speed.
